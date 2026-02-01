@@ -1,5 +1,5 @@
 d3d9.dll dacb31352f3c91841f7a2132e1766bfd48bca379
-DataTable\Character.edf f71d04351ee1f6f21c353117a4abbf7c5e4a522b
+DataTable\Character.edf f8c9cd1151e257ef047ff62cb50abf2dc6903621
 DataTable\en-ph\NDCharacter.edf 6753300223b2d534c893b767aca59cdd5df9e3cf
 DataTable\en-ph\NDEventShip.edf fa4ea659cf314120d2522492bd1a4c88fad1504e
 DataTable\en-ph\NDItem.edf 1e976b66aa709234c1451143dea92fe86b7d3751
