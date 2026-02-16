@@ -25,8 +25,8 @@ Chef\RealTime_00\Ani\Bone\patrol_b.ani b8cfd9ea3f5b65a81176a658d91115ad88a9d733
 Chef\RealTime_00\Ani\patrol_b.ani b8cfd9ea3f5b65a81176a658d91115ad88a9d733
 Chef\RealTime_00\Ani\s_fight.ani 9ce237e96312c6441a9be9086bfe7309b20f057a
 d3d9.dll dacb31352f3c91841f7a2132e1766bfd48bca379
-DataTable\Character.edf 2927c3a5cac495d902be3525e63133f18cd52115
-DataTable\en-ph\NDCharacter.edf 285a12d7602614d48f527be977c61eaaadfb1612
+DataTable\Character.edf af80d1366f45b31fc34cf401bcd81f461c40d3ba
+DataTable\en-ph\NDCharacter.edf a04aacf20a9bc09360b587844a6090d45c2c5c93
 DataTable\en-ph\NDEventShip.edf 8c415314f2e8c756487776883e88c3289f636272
 DataTable\en-ph\NDItem.edf 79e3682191b1156edf1e64cbb2ee26a7088fa384
 DataTable\en-ph\NDItemCash.edf fbce88ed64191938a0bb0128ea855423329ebc22
