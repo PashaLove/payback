@@ -28,7 +28,7 @@ d3d9.dll dacb31352f3c91841f7a2132e1766bfd48bca379
 DataTable\Character.edf a6d61327710ac1f2f25fdb4c14593e981a0106e5
 DataTable\en-ph\NDCharacter.edf 6414367c5bda469772a16979df00131189992ba4
 DataTable\en-ph\NDEventShip.edf 029bbc742bae680f80eae6cad9ab5f94f1f3570c
-DataTable\en-ph\NDItem.edf 73428763e652991dd7c3505c0f0f1b2241e45073
+DataTable\en-ph\NDItem.edf 411a28562557fa6405c58be498b4cdcefdf42038
 DataTable\en-ph\NDItemCash.edf e7a903a52dba00dc006013b71e5a0c47ecb5d884
 DataTable\en-ph\NDLanguage.edf 70a7c3db4d0d870533bcad6d9a2515627e9f301d
 DataTable\en-ph\NDMap.edf 7c7c66068e8bdc340c0eb39b0d8985ca1352ab29
@@ -36,10 +36,10 @@ DataTable\en-ph\NDMsgEvent.edf 814fda1e7459eb4bb0c6d672caee06ce8969d925
 DataTable\en-ph\NDMsgMonster.edf eaa6f3e5dfdb5c281d98f01bab5f4c9171b6abe4
 DataTable\en-ph\NDQuest.edf 5dc134c5af68d865db27553d432d4a870e011520
 DataTable\en-ph\NDSkillForce.edf d7d65f92db50f4e337b906806b68e9881ea1bb04
-DataTable\en-ph\NDStore.edf 563449a2e83cde32033c8f12ecdbcb50dec4eebb
+DataTable\en-ph\NDStore.edf d9a1883ff8515c76f4868659a265d1197010e330
 DataTable\en-ph\ui.lang ca081a7e1263852b7cf87c61db4b8edc96e90b41
 DataTable\EventShip.edf 8f7e69a6b301ea55100e743e35cba96fe47c3411
-DataTable\Item.edf 9f7e1eb631db5b34dbd314e46e7fcf95a66769be
+DataTable\Item.edf 8a83df9212d9592f6ed749386f315beb4d1bfaa6
 DataTable\ItemCash.edf 1ea30b3e9404336bc9d36823d0bd8e9a69cbf20e
 DataTable\ItemCombine.edf 3f1fff42c53e0cc5e1a7fab13d148f5b0dcc99f1
 DataTable\ItemPremium.edf adaf21d27caa119d9f17cdf7eb96dc44c39a846f
@@ -51,7 +51,7 @@ DataTable\PlayerCharacter.edf bc4e532ab0627a3d24b8f05bd990b79582c3ab2c
 DataTable\Quest.edf 19d6c0a17ed2c45d1c891d00bc9d5076abe7879f
 DataTable\Resource.edf 9d527e4014ce5b8778f859b6402a55b36d8b05dc
 DataTable\SkillForce.edf 9708e48916d3c372100c1c8814407e1ccc623b60
-DataTable\Store.edf 1fd2aa6f2a8b949330a6cc6b27aabf0cca16c4df
+DataTable\Store.edf 04738740a242a92e07752f601f73c621888e3230
 Map\Cora2\Cora2.bsp 02461d51233f5331d45480a515889f3ca1303c17
 Map\Cora2\Cora2.ebp 86ca22fced740ede2aa82dcdcaf8ac78622e7778
 Map\Cora2\Cora2.r3m 7be5f587b378b4e6298597bb5ed08f6d5ea30604
