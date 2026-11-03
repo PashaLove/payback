@@ -1,0 +1,1 @@
+# atualizacao: vazia (nada para atualizar). O Gerador de Patch troca esta lista no primeiro patch: o modo "Atualização", com esta pasta como a saída e o reparo\patchinfo.txt como a lista do completo.

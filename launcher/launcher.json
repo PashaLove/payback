@@ -1,0 +1,53 @@
+// O launcher.json OFICIAL do RF PayBack: fica no GitHub, ao lado do lc.cfg do launcher novo
+// (https://raw.githubusercontent.com/PashaLove/payback/main/launcher/launcher.json, o link está dentro do exe).
+// Sem cifra e sem compilar nada: suba no repositório e, em até "intervalos.launcher" minutos (mais os 5 minutos do
+// cache do GitHub), os launchers abertos leem. Cada campo está explicado no docs\configuracao.md e no
+// servidor-exemplo\launcher.json do projeto.
+//
+// O bloco "launcher" (a auto-atualização) é preenchido pelo pacote de lançamento e, nas versões seguintes, pelo Gerador
+// de Patch (o modo "Launcher novo"): a versão, o SHA-256 e o tamanho do exe que fica em exe\, aqui no GitHub.
+{
+  "launcher": {
+    "versao": "2.2.0",
+    "sha256": "9409fef673d0d4a119d38eaffb220b19ad3c139b1326257fdd9dffc783ba1985",
+    "tamanho": 3852800,
+    "url": "exe/RF PayBack Launcher.exe",
+    "notas": "- A logo do Premium no jogo agora acompanha a conta que entrou\n- As atualizações do jogo mais seguras: a lista dos arquivos vem por HTTPS\n- Correções nas notícias, nos vídeos e nos GIFs",
+    "obrigatoria": false
+  },
+  "versao": 1,
+
+  // As notícias e os patch notes: o feed.json no dedicado (as imagens e os .md ao lado dele).
+  "noticias": {
+    "url": "http://189.90.118.253:8080/launcher/feed/feed.json"
+  },
+
+  // Os jogadores online no topo (o StatusURL do lc.cfg): "nenhum", "total", "racas" ou "total_e_racas".
+  "status": {
+    "jogadores": "total_e_racas",
+    "intervaloSegundos": 30
+  },
+
+  // Manutenção pelo launcher.json (com o SirinMods, o %status manutencao no jogo faz o mesmo sem mexer aqui).
+  "manutencao": {
+    "ativa": false,
+    "mensagem": "",
+    "previsao": "",
+    "servidores": []
+  },
+
+  // A faixa de aviso no topo (vazio = sem faixa): "tipo" = "info", "sucesso", "aviso" ou "perigo".
+  "aviso": {
+    "texto": "",
+    "tipo": "info",
+    "link": "",
+    "ate": ""
+  },
+
+  // De quanto em quanto tempo o launcher aberto procura novidades sozinho (minutos; 0 = só ao abrir; o mínimo é 2).
+  "intervalos": {
+    "patch": 10,
+    "launcher": 30,
+    "noticias": 15
+  }
+}
