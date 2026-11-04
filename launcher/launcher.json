@@ -30,9 +30,9 @@
 
   // Manutenção pelo launcher.json (com o SirinMods, o %status manutencao no jogo faz o mesmo sem mexer aqui).
   "manutencao": {
-    "ativa": false,
-    "mensagem": "",
-    "previsao": "",
+    "ativa": true,
+    "mensagem": "Manutenção Semanal",
+    "previsao": "30 minutos",
     "servidores": []
   },
 
