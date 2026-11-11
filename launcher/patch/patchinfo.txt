@@ -1,1 +1,4 @@
-# atualizacao: vazia (nada para atualizar). O Gerador de Patch troca esta lista no primeiro patch: o modo "Atualização", com esta pasta como a saída e o reparo\patchinfo.txt como a lista do completo.
+# atualizacao: gerado pelo Gerador de Patch 1.1.0 em 2026-11-11 19:19
+dinput8.dll 5c09de53c57cd1d5c4a72d14f25c741945d30186 tamanho=244736 pacote=127250
+josiete.dll 766886b79216398292fdd9168b71b5ec47ef59cd tamanho=1777152 pacote=605225
+SirinMods\sirinmods.spr 145ed218a6a1ddfb57fcd75b12fe82b2d1717cd3 tamanho=1240540 pacote=78609
