@@ -1,4 +1,4 @@
-# atualizacao: gerado pelo Gerador de Patch 1.1.0 em 2026-11-11 22:22
-dinput8.dll f85392f07f74a3c0a881cc00424404a6419b6871 tamanho=244736 pacote=127245
-josiete.dll d10aef801a282865d8cb2fa29eb7d35d0f8b635f tamanho=1777152 pacote=605563
-SirinMods\sirinmods.spr 145ed218a6a1ddfb57fcd75b12fe82b2d1717cd3 tamanho=1240540 pacote=78609
+# atualizacao: gerado pelo Gerador de Patch 1.1.0 em 2026-11-12 23:19
+dinput8.dll fa5bea26a38b7d79c2def15f4efd6aed382a731b tamanho=244736 pacote=127323
+josiete.dll b410416d52550f722e4823b4bcea1cfa1f5b3188 tamanho=1835520 pacote=612401
+SirinMods\sirinmods.spr e51dc5cf08f4c5c2a1ed72275e7494fce6b34a60 tamanho=1253952 pacote=82768
