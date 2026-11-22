@@ -1,6 +1,6 @@
-# atualizacao: gerado pelo Gerador de Patch 1.1.0 em 2026-11-20 21:45
+# atualizacao: gerado pelo Gerador de Patch 1.1.0 em 2026-11-22 09:38
 dinput8.dll 50033e943506bfc0eb65c27933401ead81c420ca tamanho=248320 pacote=128611
-josiete.dll 668a725dd3dded8908c2edc8c7c79a05137c2d8a tamanho=2737664 pacote=773312
+josiete.dll 762394075acae21f278099083dbeebff7105e3a7 tamanho=2751488 pacote=777399
 Character\Player\Ani\ACCRETIA_RANGE_LONGFIRING_DBEAMGUN_00.ANI 8025830250473f13b1969b9125515be691d93a97 tamanho=34378 pacote=19549
 Character\Player\Ani\ACCRETIA_RANGE_LONGFIRING_DGUN_00.ANI d63916f118e3bb4137b53a2fa5c4510f778c3d35 tamanho=31842 pacote=18578
 Character\Player\Ani\ACCRETIA_RANGE_LONGFIRING_RKNIFETHROW_00.ANI c7eac35973c586496e67f9f63a5ff1128fda42cf tamanho=38506 pacote=22561
